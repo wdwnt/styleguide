@@ -1,4 +1,4 @@
 # Style-Guide
 The official WDWNT style guide
 
-WDWNT Blue : #2173D9
+WDWNT Blue : #1b7cf5
